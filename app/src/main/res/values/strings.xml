@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Firebase</string>
+
+<!--    <string name="gcm_defaultSenderId">991498805887</string>-->
+<!--    <string name="google_api_key">AIzaSyBMzq75bR6lTPumMQUlsJdAdpqVf23eMyc</string>-->
+<!--    <string name="google_app_id">1:991498805887:android:b173ffe03b8a81e880d54a</string>-->
+<!--    <string name="google_crash_reporting_api_key">AIzaSyBMzq75bR6lTPumMQUlsJdAdpqVf23eMyc</string>-->
+<!--    <string name="google_storage_bucket">igap-module-one.appspot.com</string>-->
+<!--    <string name="default_web_client_id">991498805887-89v28sodlcccbckocubilhh9qac3d0pq.apps.googleusercontent.com</string>-->
+<!--    <string name="project_id">igap-module-one</string>-->
+</resources>

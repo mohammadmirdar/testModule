@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991498805887",
+    "project_id": "igap-module-one",
+    "storage_bucket": "igap-module-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991498805887:android:b173ffe03b8a81e880d54a",
+        "android_client_info": {
+          "package_name": "net.igap.playservicemoduleone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991498805887-89v28sodlcccbckocubilhh9qac3d0pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMzq75bR6lTPumMQUlsJdAdpqVf23eMyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991498805887-89v28sodlcccbckocubilhh9qac3d0pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -40,3 +40,4 @@ dependencies {
     implementation project(':firebase_module')
 
 }
+apply plugin: 'com.google.gms.google-services'
